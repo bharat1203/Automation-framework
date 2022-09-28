@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="33.86">
+    <testcase classname="To check the login functionality of the application" name="User landing on the home page" time="33.591">
+        <system-out>
+            <![CDATA[Given user should be at Ceipal Landing page.................................passed
+When the user enters the  Username "tdivakar@ikcontech.com" and password "Test1234@" and Signin.passed
+Then User should be loggedin with home dispalyed............................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
